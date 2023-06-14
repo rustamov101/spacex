@@ -1,0 +1,66 @@
+*{
+margin: 0;
+padding: 0;
+
+}
+body{
+
+    background-color: black;
+}
+
+header {
+    margin-left: auto;
+    margin-right: auto;
+
+background-color: rgb(0, 0, 0);
+display: flex;
+justify-content: space-between;
+align-items: center;
+width: 90%;
+height: 80px;
+}
+.spacex img{
+  width: 100%;
+  margin-right:0 ;
+}
+.spacex{
+    width: 20%;
+    
+    background-color: rgb(0, 0, 0);
+  }
+header div{
+background-color: #000000;
+
+
+}
+a{
+font-family: Montserrat;
+font-size: 16px;
+text-decoration: none;
+color: white;
+}
+a:hover{
+    
+    color: rgb(201, 201, 201);
+}
+.img1 img{
+    width: 25%;
+}
+.img1{
+  background-color: blue;
+}
+h1{
+    font-family: Montserrat;
+    font-size: 45px;
+    text-decoration: none;
+    color: white;
+
+}
+h3{
+
+    font-family: Montserrat;
+    font-size: 14px;
+    text-decoration: none;
+    color: white;
+
+}
